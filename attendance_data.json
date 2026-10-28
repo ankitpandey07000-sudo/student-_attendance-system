@@ -1,0 +1,54 @@
+{
+    "students": [
+        {
+            "name": "Ankit pandey",
+            "roll": "251213002016"
+        },
+        {
+            "name": "Ankita mishra",
+            "roll": "251213002018"
+        },
+        {
+            "name": "Arshad",
+            "roll": "251213002028"
+        },
+        {
+            "name": "faizan khan",
+            "roll": "251213002047"
+        },
+        {
+            "name": "Rahul",
+            "roll": "251213002050"
+        },
+        {
+            "name": "Shubham singh",
+            "roll": "251213002055"
+        },
+        {
+            "name": "Golden gupta",
+            "roll": "251213002057"
+        }
+    ],
+    "records": [
+        {
+            "roll": "251213002016",
+            "date": "2026-10-24",
+            "status": "Present"
+        },
+        {
+            "roll": "251213002016",
+            "date": "2025-01-23",
+            "status": "Present"
+        },
+        {
+            "roll": "251213002057",
+            "date": "2025-04-18",
+            "status": "Present"
+        },
+        {
+            "roll": "251213002028",
+            "date": "2025-10-05",
+            "status": "Absent"
+        }
+    ]
+}
